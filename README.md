@@ -1,4 +1,5 @@
 🙊 🙈 🙉
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcabrerizo&count_private=true&hide=issues&show_icons=true)
 
 <!--
 **jcabrerizo/jcabrerizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

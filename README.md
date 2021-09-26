@@ -1,5 +1,8 @@
 🙊 🙈 🙉
+- 🔭 I'm happily working on Cloudsoft @ Edinburgh 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcabrerizo&count_private=true&hide=issues&show_icons=true)
+[![Top USED langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcabrerizo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jcabrerizo/jcabrerizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

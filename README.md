@@ -12,6 +12,8 @@
 
 <sub>Thanks to [@anuraghazra](https://github.com/anuraghazra) for the graphs generating tool:  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).</sub>
 
+![](https://komarev.com/ghpvc/?username=jcabrerizo)
+
 <!--
 **jcabrerizo/jcabrerizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
